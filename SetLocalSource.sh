@@ -4,9 +4,8 @@
 rootpath="/software_source"
 
 echo "The script must run super user mode !"
-echo "Please enter RHEL iso  path: "
-
-read isopath
+echo " "
+read -p "Please enter RHEL iso  path: " isopath
 mkdir $rootpath
 mount $isopath $rootpath
 echo "
