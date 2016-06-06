@@ -1,6 +1,6 @@
 RHEL7.2_Tools
 ===
-Fast,Facilitate，config RHEL7 / centos7  tools
+Fast,Facilitate  config RHEL7 / centos7  tools
 List:
 ===
     /
